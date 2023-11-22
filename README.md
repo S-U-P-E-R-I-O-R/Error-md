@@ -1,4 +1,4 @@
-<a href="https://ibb.co/pQNpmwN"><img src="https://i.imgur.com/MhAPLWN.jpeg" alt="DARKLEE" border="0"></a>
+<a href="https://i.imgur.com/MhAPLWN"><img src="https://i.imgur.com/MhAPLWN.jpeg" alt="DARKLEE" border="0"></a>
 <h1 align="center">⭐DARKLEE⭐<br></h1>
 
 <p align="center"> 
@@ -13,7 +13,7 @@
 
 <p align="center">
 
-<a href="https://api.whatsapp.com/send?phone=919931122319&text=𝘩𝘦𝘭𝘭𝘰+𝘮𝘢𝘴𝘵𝘦𝘳"><img src="https://img.shields.io/badge/Contact Ayush-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send?phone=919497705819&text=𝘩𝘦𝘭𝘭𝘰+𝘮𝘢𝘴𝘵𝘦𝘳"><img src="https://img.shields.io/badge/Contact Ayush-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 </p>
 
@@ -22,14 +22,14 @@
 ## ```Bot Support Groups```
 <p align="center">
 
-<a href="https://chat.whatsapp.com/FoS7pSPtfMqBuoireK4aAJ"><img src="https://img.shields.io/badge/Join support group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsappireK4aAJ"><img src="https://img.shields.io/badge/Join support group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 </p>
 
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/AYUSH-PANDEY023/Maria-Md/fork)
+- FORK THE REPOSITORY [Here](https://github.com/RICHU1/Error-md/fork)
 
 
 ## ` Pair with WhatsApp`
