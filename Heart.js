@@ -22,7 +22,7 @@ let afk = require("./Gallery/lib/afk");
 const { fetchBuffer, buffergif } = require("./Gallery/lib/myfunc2")
 
 /////log
-global.ownernumber = '919931122319' 
+global.ownernumber = '919497705819' 
 //Gallery/database
 let ntilinkall =JSON.parse(fs.readFileSync('./Gallery/database/antilink.json'))
 let _owner = JSON.parse(fs.readFileSync('./Gallery/database/owner.json'))
@@ -133,11 +133,7 @@ isForwarded: true,
 
 async function loading () {
 var Ayushlod = [
-"《 █▒▒▒▒▒▒▒▒▒▒▒》10%",
-"《 ████▒▒▒▒▒▒▒▒》30%",
-"《 ███████▒▒▒▒▒》50%",
-"《 ██████████▒▒》80%",
-"《 ████████████》100%",
+"𝘓𝘰𝘢𝘥𝘪𝘯𝘨....,
 "𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙴𝙳 🦄..."
 ]
 let { key } = await Maria.sendMessage(from, {text: 'ʟᴏᴀᴅɪɴɢ...'})
@@ -769,10 +765,10 @@ case 'tag': case 'tagall': case 'all':{
             
             case "sc": case "script": case"repo": {
    const scritxt = `*🚀𝑴𝒂𝒓𝒊𝒂-𝑩𝒐𝒕-𝑺𝒄𝒓𝒊𝒑𝒕🚀*\n
-  *🌟Creator:* 𝑨𝒚𝒖𝒔𝒉 𝒑𝒂𝒏𝒅𝒆𝒚\n
-  *🌟 Repo:* https://github.com/AYUSH-PANDEY023/Maria-Md \n
+  *🌟Creator:* 𝘈𝘯𝘢𝘯𝘥𝘩𝘶\n
+  *🌟 Repo:* https://github.com/𝘙𝘐𝘊𝘏𝘜1 \n
   *🌟 pair:*https://replit.com/@theofficialbhar/AYUSH-PAIRING
-  *🌟 Tutorial:*https://youtu.be/wqc0LtA0abo?si=BbZ4iml94hX6WcsS
+  *🌟 Tutorial:*https://youtu.be/wqc0LtA0abo?si=B
   *🌟 Website:*https://ayush-botz.vercel.app/
 
 ©️ *Ayush Bots inc* 
@@ -1518,95 +1514,102 @@ I am *Maria-Md*, a bot developed by *Ayush*.
 Here's the list of my Commands.
 
 
-┌──⊰ _*🧧GENERAL🧧*_
-│⊳ 🌿 ${prefix}hi
-│⊳ 🌿 ${prefix}info
-│⊳ 🌿 ${prefix}support
-│⊳ 🌿 ${prefix}rules
-│⊳ 🌿 ${prefix}help
-│⊳ 🌿 ${prefix}runtime
-│⊳ 🌿 ${prefix}script
-└──────────⊰
+       _  𝘎𝘦𝘯𝘦𝘳𝘢𝘭  _
+ ⊳  ${prefix}hi
+ ⊳  ${prefix}info
+ ⊳  ${prefix}support
+ ⊳  ${prefix}rules
+ ⊳  ${prefix}help
+ ⊳  ${prefix}runtime
+ ⊳  ${prefix}script
 
-┌──⊰ _*🧩OWNER🧩*_
-│⊳ ♠️ ${prefix}session
-│⊳ ♠️ ${prefix}join
-│⊳ ♠️ ${prefix}shutdown
-│⊳ ♠️ ${prefix}restart
-│⊳ ♠️ ${prefix}autoread *[option]*
-│⊳ ♠️ ${prefix}autotyping *[option]*
-│⊳ ♠️ ${prefix}autorecording *[option]*
-│⊳ ♠️ ${prefix}autorecordtyp *[option]*
-│⊳ ♠️ ${prefix}autobio *[option]*
-│⊳ ♠️ ${prefix}autoswview *[option]*
-│⊳ ♠️ ${prefix}mode *[option]*
-│⊳ ♠️ ${prefix}block
-│⊳ ♠️ ${prefix}unblock
-│⊳ ♠️ ${prefix}backup
-│⊳ ♠️ ${prefix}getcase
-│⊳ ♠️ ${prefix}addowner
-│⊳ ♠️ ${prefix}delowner
-└──────────⊰
 
-┌──⊰ _*👮🏻‍♂️GROUP👮🏻‍♂️*_
-│⊳ 🍁 ${prefix}closetime
-│⊳ 🍁 ${prefix}opentime
-│⊳ 🍁 ${prefix}kick
-│⊳ 🍁 ${prefix}add
-│⊳ 🍁 ${prefix}promote
-│⊳ 🍁 ${prefix}demote
-│⊳ 🍁 ${prefix}setdesc
-│⊳ 🍁 ${prefix}setppgc
-│⊳ 🍁 ${prefix}tagall
-│⊳ 🍁 ${prefix}hidetag
-│⊳ 🍁 ${prefix}totag
-│⊳ 🍁 ${prefix}group *[option]*
-│⊳ 🍁 ${prefix}editinfo
-│⊳ 🍁 ${prefix}linkgc
-│⊳ 🍁 ${prefix}revoke
-│⊳ 🍁 ${prefix}listonline
-└──────────⊰
+  𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘣𝘺 𝘈𝘯𝘢𝘯𝘥𝘩𝘶 🔞
 
-┌──⊰ _*🎉FUN🎉*_
-│⊳ 🎟️ ${prefix}truth
-│⊳ 🎟️ ${prefix}dare
-│⊳🎟️ ${prefix}couple 
-│⊳🎟️ ${prefix}uglycheck
-│⊳🎟️ ${prefix}lovelycheck
-│⊳🎟️ ${prefix}prettycheck
-│⊳🎟️ ${prefix}hornycheck
-│⊳🎟️ ${prefix}lesbiancheck
-│⊳🎟️ ${prefix}lesbicheck
-│⊳🎟️ ${prefix}lesbiancheck
-│⊳🎟️ ${prefix}cutecheck
-│⊳🎟️ ${prefix}gaycheck
-│⊳🎟️ ${prefix}greatcheck
-│⊳🎟️ ${prefix}awesomecheck
-└──────────⊰
+       _  𝘖𝘸𝘯𝘦𝘳 _
+ ⊳  ${prefix}session
+ ⊳  ${prefix}join
+ ⊳  ${prefix}shutdown
+ ⊳  ${prefix}restart
+ ⊳  ${prefix}autoread *[option]*
+ ⊳  ${prefix}autotyping *[option]*
+ ⊳  ${prefix}autorecording *[option]*
+ ⊳  ${prefix}autorecordtyp *[option]*
+ ⊳  ${prefix}autobio *[option]*
+ ⊳  ${prefix}autoswview *[option]*
+ ⊳  ${prefix}mode *[option]*
+ ⊳  ${prefix}block
+ ⊳  ${prefix}unblock
+ ⊳  ${prefix}backup
+ ⊳  ${prefix}getcase
+ ⊳  ${prefix}addowner
+ ⊳  ${prefix}delowner
 
-┌──⊰ _*⛩️OTHERS⛩️*_
-│⊳ 🏮 ${prefix}sticker
-│⊳ 🏮 ${prefix}qc
-│⊳ 🏮 ${prefix}smeme
-│⊳ 🏮 ${prefix}take
-│⊳ 🏮 ${prefix}toimage
-│⊳ 🏮 ${prefix}tovideo
-│⊳ 🏮 ${prefix}toaudio
-│⊳ 🏮 ${prefix}tomp3
-│⊳ 🏮 ${prefix}tovn
-│⊳ 🏮 ${prefix}togif
-│⊳ 🏮 ${prefix}tourl
-│⊳ 🏮 ${prefix}toqr
-│⊳ 🏮 ${prefix}toviewonce
-│⊳ 🏮 ${prefix}fliptext
-│⊳ 🏮 ${prefix}emojimix
-│⊳ 🏮 ${prefix}play
-│⊳ 🏮 ${prefix}ytmp3
-│⊳ 🏮 ${prefix}ytmp4
-│⊳ 🏮 ${prefix}circlevideo
-│⊳ 🏮 ${prefix}google
-│⊳ 🏮 ${prefix}gpt
-└──────────⊰`
+  𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘣𝘺 𝘈𝘯𝘢𝘯𝘥𝘩𝘶 🔞
+ 
+       _  𝘎𝘳𝘰𝘶𝘱  _
+ ⊳  ${prefix}closetime
+ ⊳  ${prefix}opentime
+ ⊳  ${prefix}kick
+ ⊳  ${prefix}add
+ ⊳  ${prefix}promote
+ ⊳  ${prefix}demote
+ ⊳  ${prefix}setdesc
+ ⊳  ${prefix}setppgc
+ ⊳  ${prefix}tagall
+ ⊳  ${prefix}hidetag
+ ⊳  ${prefix}totag
+ ⊳  ${prefix}group *[option]*
+ ⊳  ${prefix}editinfo
+ ⊳  ${prefix}linkgc
+ ⊳  ${prefix}revoke
+ ⊳  ${prefix}listonline
+ 
+  𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘣𝘺 𝘈𝘯𝘢𝘯𝘥𝘩𝘶 🔞
+  
+        _ 𝘍𝘶𝘯 _
+ ⊳  ${prefix}truth
+ ⊳  ${prefix}dare
+ ⊳  ${prefix}couple 
+ ⊳  ${prefix}uglycheck
+ ⊳  ${prefix}lovelycheck
+ ⊳  ${prefix}prettycheck
+ ⊳  ${prefix}hornycheck
+ ⊳  ${prefix}lesbiancheck
+ ⊳  ${prefix}lesbicheck
+ ⊳  ${prefix}lesbiancheck
+ ⊳  ${prefix}cutecheck
+ ⊳  ${prefix}gaycheck
+ ⊳  ${prefix}greatcheck
+ ⊳  ${prefix}awesomecheck
+
+  𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘣𝘺 𝘈𝘯𝘢𝘯𝘥𝘩𝘶 🔞
+ 
+       _ 𝘖𝘵𝘩𝘦𝘳𝘴 _
+ ⊳  ${prefix}sticker
+ ⊳  ${prefix}qc
+ ⊳  ${prefix}smeme
+ ⊳  ${prefix}take
+ ⊳  ${prefix}toimage
+ ⊳  ${prefix}tovideo
+ ⊳  ${prefix}toaudio
+ ⊳  ${prefix}tomp3
+ ⊳  ${prefix}tovn
+ ⊳  ${prefix}togif
+ ⊳  ${prefix}tourl
+ ⊳  ${prefix}toqr
+ ⊳  ${prefix}toviewonce
+ ⊳  ${prefix}fliptext
+ ⊳  ${prefix}emojimix
+ ⊳  ${prefix}play
+ ⊳  ${prefix}ytmp3
+ ⊳  ${prefix}ytmp4
+ ⊳  ${prefix}circlevideo
+ ⊳  ${prefix}google
+ ⊳  ${prefix}gpt
+ 
+  𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘣𝘺 𝘈𝘯𝘢𝘯𝘥𝘩𝘶 🔞
+  
 const Mariaarray= [
             "https://telegra.ph/file/a979e37a8d2971c088ff4.jpg",
             "https://telegra.ph/file/2a1939dd4157aa5832cc0.jpg",
