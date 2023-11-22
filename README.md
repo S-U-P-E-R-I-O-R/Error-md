@@ -1,5 +1,5 @@
-<a href="https://ibb.co/pQNpmwN"><img src="https://i.ibb.co/xYwQ4Lw/cheemspic.jpg" alt="Maria-Md" border="0"></a>
-<h1 align="center">⭐Maria-Md⭐<br></h1>
+<a href="https://ibb.co/pQNpmwN"><img src="https://i.imgur.com/MhAPLWN.jpeg" alt="DARKLEE" border="0"></a>
+<h1 align="center">⭐DARKLEE⭐<br></h1>
 
 <p align="center"> 
   Konochiwa Senpai, I am "Maria md " a WhatsApp bot made by Ayush to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
